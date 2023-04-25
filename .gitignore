@@ -182,7 +182,7 @@ venv.bak/
 
 app/env_app/
 game/env_game/
-
+web-server/env_web-server/
 
 # Spyder project settings
 .spyderproject
